@@ -10,3 +10,7 @@ dofiles
  - cd ../ (project directory)
  - rake symlink
  - Enjoy!
+
+##Suggestions
+ - Vim molokai: https://github.com/tomasr/molokai
+ - iTerm schemes: http://iterm2colorschemes.com/
